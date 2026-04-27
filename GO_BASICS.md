@@ -1,4 +1,4 @@
-# 🐹 Go Language Basics for Beginners
+# Go Language Basics for Beginners
 
 If you are new to Go (Golang), this guide explains the syntax and concepts we used in the **GoTask** project.
 
