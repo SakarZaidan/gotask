@@ -1,4 +1,4 @@
-# 🛠 Project Architecture & Thought Process
+# Project Architecture & Thought Process
 
 This document explains how we built **GoTask** and why we made certain engineering decisions.
 
