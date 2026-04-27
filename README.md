@@ -1,4 +1,4 @@
-# GoTask — CLI Task Manager 🥉
+# GoTask — CLI Task Manager (B-01)
 
 GoTask is a simple command-line task manager built with Go. This is Project B-01 from my Bronze Tier Backend Engineering Roadmap.
 
